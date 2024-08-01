@@ -38,6 +38,7 @@ from encryption_tool import decrypt_image
 decrypt_image('encrypted_image.png', 'decrypted_image.png', key=123)
 
 Example
+
 from PIL import Image
 import numpy as np
 
