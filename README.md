@@ -19,13 +19,16 @@ Installation
 Clone the Repository:
 
 git clone https://github.com/abhinrajka/image-encryption-tool.git
+
 cd image-encryption-tool
 
 Install Dependencies:
 pip install pillow numpy
 
 Usage
+
 Encrypt an Image:
+
 from encryption_tool import encrypt_image
 encrypt_image('input_image.png', 'encrypted_image.png', key=123)
 
