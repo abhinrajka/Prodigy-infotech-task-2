@@ -60,8 +60,11 @@ encrypt_image('input_image.png', 'encrypted_image.png', key=123)
 decrypt_image('encrypted_image.png', 'decrypted_image.png', key=123)
 
 Contributing
+
 Feel free to fork this repository, create a branch, and submit a pull request if you have any improvements or additional features to propose.
 
+
 License
+
 This project is licensed under the MIT License.
 
