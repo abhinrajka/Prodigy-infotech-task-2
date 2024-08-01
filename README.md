@@ -18,7 +18,7 @@ NumPy
 Installation
 Clone the Repository:
 
-git clone https://github.com/your-username/image-encryption-tool.git
+git clone https://github.com/abhinrajka/image-encryption-tool.git
 cd image-encryption-tool
 
 Install Dependencies:
